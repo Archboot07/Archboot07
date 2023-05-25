@@ -1,6 +1,6 @@
 #   Victor Hugo
 👩‍💻- Foco em Desenvolvimento e Ethical Hacking.<br>
-👨‍🎓- Conhecimento em Hardwares, HAcking, Programação.<br>
+👨‍🎓- Conhecimento em Hardwares, Hacking, Programação.<br>
 📘- Estudando Desenvolvimento de jogos Com a Godot e GDSCRIPT
 <!--estrutura-->
 <div style="display: inline_block"><br>
