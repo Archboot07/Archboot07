@@ -1,6 +1,6 @@
-# Victor Hugo
-👩‍💻- Atualmente com foco em Python e Front-end.<br>
-👨‍🎓- Conhecimento em Hardwares e Ethical Hacking.<br>
+#   Victor Hugo
+👩‍💻- Foco em Desenvolvimento e Ethical Hacking.<br>
+👨‍🎓- Conhecimento em Hardwares, HAcking, Programação.<br>
 📘- Estudando Desenvolvimento de jogos Com a Godot e GDSCRIPT
 <!--estrutura-->
 <div style="display: inline_block"><br>
