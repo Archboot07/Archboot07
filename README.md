@@ -9,6 +9,7 @@
   <img align="center" alt="victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="victor-Python" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
+  <img align="center" alt="victor-go" height="30" width="40" src=https://icongr.am/devicon/go-original.svg?size=128&color=currentColor>
  
   
 </div><br>
