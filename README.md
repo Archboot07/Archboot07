@@ -8,7 +8,8 @@
   <img align="center" alt="victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/c-original.svg">
+  <img align="center" alt="victor-Python" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
+ 
   
 </div><br>
 
