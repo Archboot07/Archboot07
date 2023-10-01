@@ -1,7 +1,7 @@
 #   __arch_0x3f5
 👩‍💻- Foco em Desenvolvimento e Ethical Hacking.<br>
 👨‍🎓- Conhecimento em Hardwares, Hacking, Programação.<br>
-📘- Estudando Desenvolvimento de jogos Com a Godot e GDSCRIPT
+📘- Hacking Web e Vunerabilidades. 
 <!--estrutura-->
 <div style="display: inline_block"><br>
   <img align="center" alt="victor-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
