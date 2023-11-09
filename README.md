@@ -9,13 +9,13 @@
   <img align="center" alt="victor-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="victor-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="victor-Python" height="40" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
-  <img align="center" alt="victor-go" height="40" width="40" src=https://icongr.am/devicon/go-original.svg?size=128&color=currentColor">
+  <img align="center" alt="victor-go" height="40" width="40" src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor">
   <img align="center" alt="victor-django" height="60" width="65" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
-  <img align="center" alt="victor-ruby" height="46" width="50" src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=85color=ffffff">
+  <img align="center" alt="victor-ruby" height="46" width="50" src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=85&color=ffffff">
   <img align="center" alt="victor-type" height="40" width="50" src="https://icongr.am/devicon/typescript-original.svg?size=66&color=ffffff">
 </div><br>
 
-  <a href="https://www.instagram.com/victorhugo00074/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/victorhugo00074/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/sixxrip#0001" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
  
