@@ -11,7 +11,7 @@
   <img align="center" alt="victor-Python" height="40" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img align="center" alt="victor-go" height="40" width="40" src=https://icongr.am/devicon/go-original.svg?size=128&color=currentColor">
   <img align="center" alt="victor-django" height="60" width="65" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor">
-  <img align="center" alt="victor-ruby" height="46" width="50" src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=85&color=ffffff">
+  <img align="center" alt="victor-ruby" height="46" width="50" src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=85color=ffffff">
   <img align="center" alt="victor-type" height="40" width="50" src="https://icongr.am/devicon/typescript-original.svg?size=66&color=ffffff">
 </div><br>
 
