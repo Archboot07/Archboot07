@@ -14,7 +14,7 @@
   <img align="center" alt="victor-ruby" height="46" width="50" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor">
   <img align="center" alt="victor-C#" height="40" width="50" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
   <img align="center" alt="victor-type" height="40" width="50" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
-  <script src="https://tryhackme.com/badge/892843"></script>
+
 </div><br>
 
 
